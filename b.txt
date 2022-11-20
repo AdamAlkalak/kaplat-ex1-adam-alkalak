@@ -1,1 +1,2 @@
 This is adam's new b file.
+This is the new line in b file.
